@@ -1,0 +1,1 @@
+During my training at AHD Technology as a Backend Developer, I completed a module on programming with Python, culminating in a project that involved implementing a simple e-library system using Python after designing its class diagram.
